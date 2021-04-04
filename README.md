@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @deadcodeonly.
+- 👀 I’m interested in C, C++, Lua and Rust.
+- 🌱 I’m currently learning Rust.
+- 💞️ I’m looking to collaborate on network services.
